@@ -1,0 +1,4 @@
+*.exe
+*.msi
+build-msi/
+results.txt
